@@ -1,3 +1,13 @@
 // Write your solution here!
-let pets = [];
-pets.push('Odie');
+const append = ["Milo", "Otis", "Garfild"],
+prepend = ["Milo", "Otis", "Garfild"],
+removeLast = ["Milo", "Otis", "Garfild"],
+removeFirst = ["Milo", "Otis", "Garfild"];
+
+append.push("Odie");
+
+prepend.unshift("Odie");
+
+removeLast.pop();
+
+removeFirst.shift();
