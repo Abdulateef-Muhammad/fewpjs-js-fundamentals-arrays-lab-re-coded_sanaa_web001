@@ -1,8 +1,8 @@
 // Write your solution here!
-const append = ["Milo", "Otis", "Garfild"],
-prepend = ["Milo", "Otis", "Garfild"],
-removeLast = ["Milo", "Otis", "Garfild"],
-removeFirst = ["Milo", "Otis", "Garfild"];
+const append = ["Milo", "Otis", "Garfield"],
+prepend = ["Milo", "Otis", "Garfield"],
+removeLast = ["Milo", "Otis", "Garfield"],
+removeFirst = ["Milo", "Otis", "Garfield"];
 
 append.push("Odie");
 
